@@ -6,11 +6,6 @@ eu explorava a linguagem e começava a aprender programação de verdade.
 Este projeto foi criado para colocar em prática alguns dos primeiros conceitos
 que estou aprendendo em Python e registrar meu início com a linguagem.
 
-<img width="959" height="375" alt="image" src="https://github.com/user-attachments/assets/4eac9701-7e58-44d1-ba8e-853693976223" />
-<img width="959" height="406" alt="image" src="https://github.com/user-attachments/assets/e9b539dd-af58-4a49-b296-4395a8b08a5f" />
-
-
-
 ## O que ele faz
 
 - Menu principal e submenus
@@ -39,5 +34,11 @@ complexos em prática ao longo do tempo.
 O objetivo não é ser um software complexo nem nada, apenas me testar no simples e registrar meu primeiro
 passo na programação e acompanhar minha evolução.
 
+## Imagens
 
+
+
+<img width="959" height="406" alt="image" src="https://github.com/user-attachments/assets/e9b539dd-af58-4a49-b296-4395a8b08a5f" />
+
+<img width="959" height="375" alt="image" src="https://github.com/user-attachments/assets/4eac9701-7e58-44d1-ba8e-853693976223" />
 
