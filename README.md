@@ -6,6 +6,9 @@ eu explorava a linguagem e começava a aprender programação de verdade.
 Este projeto foi criado para colocar em prática alguns dos primeiros conceitos
 que estou aprendendo em Python e registrar meu início com a linguagem.
 
+<img width="954" height="389" alt="image" src="https://github.com/user-attachments/assets/4b642448-675f-4c43-95fc-a21ee2e46b05" /> <img width="959" height="393" alt="image" src="https://github.com/user-attachments/assets/d3215c8c-298e-49cf-98b7-e3a4c5f90cb8" />
+
+
 ## O que ele faz
 
 - Menu principal e submenus
